@@ -1,8 +1,11 @@
 KECCRM Uygulaması
 
-KECCRM, kullanıcıların müşteri ilişkilerini yönetmelerine yardımcı olan basit ve etkili bir uygulamadır. Bu uygulama, temel CRM (Customer Relationship Management) işlevselliği sunarak kullanıcıların müşteri bilgilerini düzenlemelerini, takip etmelerini ve yönetmelerini sağlar. Uygulama, demo aşamasında olup sürekli geliştirilmekte ve yeni fonksiyonlarla zenginleştirilmektedir.
+KECCRM, kullanıcıların müşteri ilişkilerini yönetmelerine yardımcı olan basit ve etkili bir uygulamadır.
+Bu uygulama, temel CRM (Customer Relationship Management) işlevselliği sunarak kullanıcıların müşteri bilgilerini düzenlemelerini, takip etmelerini ve yönetmelerini sağlar.
+Uygulama, demo aşamasında olup sürekli geliştirilmekte ve yeni fonksiyonlarla zenginleştirilmektedir.
 
 Özellikler
+
 Müşteri Listeleme: Satış temsilcisine göre müşteri listesi görüntüleme.
 
 Ürün Listeleme: Ürünler, ürün adına göre sıralanarak gösterilir.
