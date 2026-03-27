@@ -1,0 +1,12 @@
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\bin\Debug\keccrm.exe.config
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\bin\Debug\keccrm.exe
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\bin\Debug\keccrm.pdb
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.csproj.AssemblyReference.cache
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.Login.resources
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.Properties.Resources.resources
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.csproj.GenerateResource.cache
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.csproj.CoreCompileInputs.cache
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.exe
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.pdb
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.home.resources
+C:\Users\kecog\Desktop\KecCRM\keccrm\keccrm\obj\Debug\keccrm.satısyap.resources
