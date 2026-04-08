@@ -1,35 +1,7 @@
-KECCRM Uygulaması
+KecCRM – Customer Relationship Management System
 
-KECCRM, kullanıcıların müşteri ilişkilerini yönetmelerine yardımcı olan basit ve etkili bir uygulamadır.
-Bu uygulama, temel CRM (Customer Relationship Management) işlevselliği sunarak kullanıcıların müşteri bilgilerini düzenlemelerini, takip etmelerini ve yönetmelerini sağlar.
-Uygulama, demo aşamasında olup sürekli geliştirilmekte ve yeni fonksiyonlarla zenginleştirilmektedir.
+Developed a CRM system covering customer, product, and sales management using C# and ASP.NET WebForms. Designed and implemented a relational database structure with SQL Server to ensure efficient data management.
 
-Özellikler
+The system includes features such as sales creation, customer tracking, and a logging mechanism to record historical transactions. Additionally, I designed a multi-user architecture that allows marketers and companies to manage their own customer portfolios independently.
 
-Müşteri Listeleme: Satış temsilcisine göre müşteri listesi görüntüleme.
-
-Ürün Listeleme: Ürünler, ürün adına göre sıralanarak gösterilir.
-
-Satış Siparişi Listeleme: Satış siparişlerini sipariş ID'sine göre gösterir.
-
-Veritabanı Entegrasyonu: SQL Server veritabanı kullanarak verilerin saklanması ve yönetilmesi.
-
-GUI: Windows Forms kullanılarak görsel bir kullanıcı arayüzü (GUI) sağlanır.
-
-Demo Durumunda: Bazı fonksiyonlar henüz tam olarak tamamlanmamış olup, geliştirme aşamasındadır.
-
-Teknolojiler
-
-Backend: C# (.NET Framework / .NET Core)
-
-Veritabanı: SQL Server (SQL bağlantısı ve sorgulama)
-
-Frontend: Windows Forms
-
-DataGridView bileşeni ile veri görüntüleme
-
-Gereksinimler
-
-.NET Framework 4.7.2 veya üzeri
-
-SQL Server veya SQLite (Veritabanı bağlantısı için)
+The application was built with a scalable and extensible architecture, making it easy to add new features and improvements.
